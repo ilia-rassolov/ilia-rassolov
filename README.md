@@ -21,8 +21,7 @@
     <p><a href="https://t.me/ilia_pww" target="_blank"><img 
             style="margin: 15px"
             src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
-            alt="My_telegram" height="30" /></a></p>
-    <p><b>pww.dew@gmail.com</b></p>
+            alt="My_telegram" height="30" /></a>           <span style="border: 2px solid black;"><b>pww.dew@gmail.com</b></span></p>
 </div>
 
 ---
