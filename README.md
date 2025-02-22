@@ -9,7 +9,7 @@
     <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Pyton" height="70" />
     <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="70" />
     <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="70" />
-    <img style="margin: 25px" src="https://github.com/ilia-rassolov/ilia-rassolov/pg.png" alt="PostgreSQL2" height="70" />
+    <img style="margin: 25px" src="https://https://github.com/ilia-rassolov/ilia-rassolov/blob/main/pg.png" alt="PostgreSQL2" height="70" />
     <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="70" />
     <img style="margin: 25px" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" height="70" />
 </div>
