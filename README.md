@@ -2,7 +2,7 @@
 
 ---
 
-<div align="center" style="margin: 25px">
+<div align="center">
     <p>🔭 I am currently not working for any company and am open to new offers </p>
     <p>🌱 I am currently studying on the Hexlet IT platform and plan to graduate in July-August 2025</p>
     <p>👯 I am looking for collaboration on projects in my area of expertise and am willing to devote up to 10-15 hours per week to this: </p>
@@ -22,12 +22,12 @@
             style="margin: 15px"
             src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
             alt="My_telegram" height="30" /></a></p>
-    <p><img style="margin: 15px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" />pww.dew@gmail.com</p>
+    <p><b>pww.dew@gmail.com</b></p>
 </div>
 
 ---
 #### <div align="center">Github stats</div>  
 <p align='center'>
-   <img height=150 width=600 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilia-rassolov&layout=compact"/>
+   <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilia-rassolov&layout=compact"/>
 </p>
 
