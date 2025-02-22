@@ -2,12 +2,10 @@
 
 ---
 
-<div align="center">
-    <ul>
-        <li>🔭 I am currently not working for any company and am open to new offers </li>
-        <li>🌱 I am currently studying on the Hexlet IT platform and plan to graduate in July-August 2025</li>
-        <li>👯 I am looking for collaboration on projects in my area of expertise and am willing to devote up to 10-15 hours per week to this: </li>
-    </ul>
+<div align="center" style="margin: 25px">
+    <p>🔭 I am currently not working for any company and am open to new offers </p>
+    <p>🌱 I am currently studying on the Hexlet IT platform and plan to graduate in July-August 2025</p>
+    <p>👯 I am looking for collaboration on projects in my area of expertise and am willing to devote up to 10-15 hours per week to this: </p>
     <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="70" />
     <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Pyton" height="70" />
     <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="70" />
@@ -18,15 +16,13 @@
 
 ---
 <div align="center">
-    <ul>
-        <li>🚀 My stack is Python, Pytest, OOP, HTML/CSS, Bootstrap, SQL, PostgreSQL, Flask, Django</li>
-        <li>📫 How to reach me:</li>
-        <li><a href="https://t.me/ilia_pww" target="_blank"><img 
-                style="margin: 15px"
-                src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
-                alt="My_telegram" height="30" /></a></li>
-        <li>pww.dew@gmail.com</li>
-    </ul>
+    <p>🚀 My stack is Python, Pytest, OOP, HTML/CSS, Bootstrap, SQL, PostgreSQL, Flask, Django</p>
+    <p>📫 How to reach me:</p>
+    <p><a href="https://t.me/ilia_pww" target="_blank"><img 
+            style="margin: 15px"
+            src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
+            alt="My_telegram" height="30" /></a></p>
+    <p><img style="margin: 15px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" />pww.dew@gmail.com</p>
 </div>
 
 ---
