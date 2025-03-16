@@ -26,7 +26,7 @@
 </div>
 
 ---
-#### <div align="center">Github stats</div>  
+
 <p align='center'>
    <img height=150 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilia-rassolov&layout=compact"/>
    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilia-rassolov&layout=compact"/>
