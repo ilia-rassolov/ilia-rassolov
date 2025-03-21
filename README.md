@@ -5,7 +5,7 @@
 <div align="center">
     <p>🔭 I am currently not working for any company and am open to new offers </p>
     <p>🌱 I am currently studying on the Hexlet IT platform and plan to graduate in July-August 2025</p>
-    <p>👯 I am looking for collaboration on projects in my area of expertise and am willing to devote up to 10-15 hours per week to this: </p>
+    <p>👯 I am looking for collaboration on projects in my area of expertise and am willing to devote up to 10-20 hours per week to this: </p>
     <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="70" />
     <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Pyton" height="70" />
     <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="70" />
